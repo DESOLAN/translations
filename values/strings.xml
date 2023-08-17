@@ -10,7 +10,6 @@
     <string name="control_back">Back</string>
     <string name="createcity_start">Start</string>
     <string name="loadcity_load">Start</string>
-
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Habitants: %1$,d</string>
     <string name="game_cityname">%1$s</string>
@@ -1497,10 +1496,10 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="draft_draft_hsp_text">Happiness about sport facilities.</string>
     <string name="draft_draft_hgen_title">General happiness</string>
     <string name="draft_draft_hgen_text">General happiness.</string>
-    <string name="influence_passenger_bus_title">Bus transport</string>
-    <string name="influence_passenger_bus_text">If people use busses there will be less traffic.</string>
-    <string name="influence_passenger_train_title">Train transport</string>
-    <string name="influence_passenger_train_text">If people use trains there will be less traffic on the road.</string>
+    <string name="influence_Transportation_title">Transportation</string>
+    <string name="influence_Transportation_text">It can add value that the efficient movement of people, goods, and information brings to a system.</string>
+    <string name="influence_Train_transport_title">Train transport</string>
+    <string name="influence_Train_transport_text">Trains can carry people and cargo efficiently at high speeds, while also helping to reduce the volume of cars on roads.</string>
     <string name="influence_residential_title">Residential area</string>
     <string name="influence_residential_text">People prefer to live in a residential area.</string>
     <string name="influence_commercial_title">Commercial area</string>
