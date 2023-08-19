@@ -1497,8 +1497,8 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="draft_draft_hsp_text">Happiness about sport facilities.</string>
     <string name="draft_draft_hgen_title">General happiness</string>
     <string name="draft_draft_hgen_text">General happiness.</string>
-    <string name="influence_passenger_bus_title">Bus transport</string>
-    <string name="influence_passenger_bus_text">If people use busses there will be less traffic.</string>
+    <string name="influence_passenger_bus_title">Transportation</string>
+    <string name="influence_passenger_bus_text">If people use Public Transportation there will be less traffic.</string>
     <string name="influence_passenger_train_title">Train transport</string>
     <string name="influence_passenger_train_text">If people use trains there will be less traffic on the road.</string>
     <string name="influence_residential_title">Residential area</string>
